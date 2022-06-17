@@ -16,11 +16,11 @@
    - train.csv
 - 지도학습 총정리
 - kmeans
-<br>
 
+<br>
 <hr>
-
 <br>
+
 # Deep learning
 
 - AND_OR_XOR 게이트
