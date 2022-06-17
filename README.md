@@ -4,6 +4,18 @@
 
 # Machine Learning
 
+- numpy
+- pandas
+- iris(Linear Legression)
+- KNN
+- Decision Tree
+- SVM
+- PCA
+- Titanic_data_preprocessing
+   - test.csv
+   - train.csv
+- 지도학습 총정리
+- kmeans
 
 <br>
 
@@ -12,3 +24,12 @@
 <br>
 
 # Deep learning
+
+- AND_OR_XOR 게이트
+- perceptron
+- perceptron numpy로 만들기
+- perceptron multi layer
+- PCA로 차원축소 후 퍼셉트론 구현(iris, wine, breast cancer data)
+- iris softmax
+- wine softmax
+- breast cancer sigmoid
