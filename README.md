@@ -16,20 +16,20 @@
    - train.csv
 - 지도학습 총정리
 - kmeans
-
 <br>
 
 <hr>
 
 <br>
-
 # Deep learning
 
 - AND_OR_XOR 게이트
 - perceptron
 - perceptron numpy로 만들기
 - perceptron multi layer
-- PCA로 차원축소 후 퍼셉트론 구현(iris, wine, breast cancer data)
+- iris data PCA로 차원축소 후 퍼셉트론 구현
+- wine data PCA로 차원축소 후 퍼셉트론 구현
+- breast cancer data PCA로 차원축소 후 퍼셉트론 구현
 - iris softmax
 - wine softmax
 - breast cancer sigmoid
